@@ -11,19 +11,19 @@ export const data = [
         id: 1,
         avatar: AVTR2,
         name: 'Jane Smith',
-        review: "I had the pleasure of working with [your name] on a web development project and I couldn't be happier with the results. [Your name] was professional, responsive, and went above and beyond to ensure that the website was exactly what I wanted. I would definitely recommend [your name] to anyone looking for a skilled and dedicated web developer."
+        review: "I had the pleasure of working with Fawad Hamidi on a web development project and I couldn't be happier with the results. Fawad was professional, responsive, and went above and beyond to ensure that the website was exactly what I wanted. I would definitely recommend Fawad Hamidi to anyone looking for a skilled and dedicated web developer."
     },
     {
         id: 2,
         avatar: AVTR1,
         name: 'Anika Patel',
-        review: 'I hired Fawad Ahmad Hamidi for UI/UX design services and was extremely impressed with the level of creativity and attention to detail he brought to the project. Fawad took the time to understand my vision and created a design that was not only visually appealing but also user-friendly. I would definitely work with Fawad again in the future.'
+        review: 'I hired Fawad Hamidi for UI/UX design services and was extremely impressed with the level of creativity and attention to detail he brought to the project. Fawad took the time to understand my vision and created a design that was not only visually appealing but also user-friendly. I would definitely work with Fawad again in the future.'
     },
     {
         id: 3,
         avatar: AVTR5,
         name: 'Angela Kim',
-        review: 'I had the pleasure of working with Fawad Ahmad Hamidi on a content creation project and was blown away by the quality of his work. Fawad is a talented writer and his content was well-researched, engaging, and informative. I would highly recommend Fawad to anyone looking for a skilled and reliable content creator.'
+        review: 'I had the pleasure of working with Fawad Hamidi on a content creation project and was blown away by the quality of his work. Fawad is a talented writer and his content was well-researched, engaging, and informative. I would highly recommend Fawad to anyone looking for a skilled and reliable content creator.'
     },
     {
         id: 4,
