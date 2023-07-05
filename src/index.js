@@ -4,6 +4,8 @@ import './index.css';
 import App from './App.jsx';
 import { BrowserRouter,Routes, Route } from 'react-router-dom';
 import FreeCoursesLinks from './components/links/FreeCoursesLinks';
+import FreeSoftwares from './components/freeApps/FreeSoftwares';
+
 
 
 
@@ -13,6 +15,7 @@ root.render(
   <Routes>
   <Route path="/" element={<App />} />
   <Route path="/free-courses" element={<FreeCoursesLinks />} />
+  <Route path="/free-apps" element={<FreeSoftwares/>} />
   </Routes>
   </BrowserRouter>,
 );
