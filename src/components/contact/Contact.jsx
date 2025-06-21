@@ -61,8 +61,8 @@ export default function Contact() {
           <article className="contact__option">
             <BsWhatsapp className="contact__option-icon" />
             <h4>WhatsApp</h4>
-            <h5>+919503487704</h5>
-            <a href="https://api.whatsapp.com/send?phone=9503487704" target="_blank">Send a message</a>
+            <h5>+4915210712591</h5>
+            <a href="https://api.whatsapp.com/send?phone=15210712591" target="_blank">Send a message</a>
           </article>
           <ToastContainer />
         </div>

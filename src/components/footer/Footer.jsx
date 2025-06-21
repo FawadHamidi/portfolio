@@ -24,16 +24,17 @@ export default function Footer() {
 
   <div className="footer__socials">
     <a href='https://www.facebook.com/fawadhamidi41'><FaFacebookF /></a>
-    <a href='https://www.instagram.com/fawadhamidi___/'><FiInstagram /></a>
+    <a href='https://www.instagram.com/fawadhamidi_/'><FiInstagram /></a>
     <a href='https://twitter.com/BoltHead91'><IoLogoTwitter /></a>
-    <a href='https://www.linkedin.com/in/fawad-ahmad-hamidi-944b121ba/'><FaLinkedinIn /></a>
+    <a href='https://www.linkedin.com/in/fawad-hamidi-944b121ba/'><FaLinkedinIn /></a>
     <a href='https://github.com/FawadHamidi'><AiFillGithub /></a>
   </div>
 
 
-  <div className="footer__copyright">
-    <small>&copy; Fawad Ahmad Hamidi. All rights reserved</small>
-  </div>
+<div className="footer__copyright">
+  <small>&copy; {new Date().getFullYear()} Fawad Hamidi. All rights reserved</small>
+</div>
+
 </footer>
   )
 }
